@@ -5,3 +5,10 @@ C:\Users\User\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.cspr
 C:\Users\User\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 C:\Users\User\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.AssemblyReference.cache
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+E:\Documents\Git Repo\GroupProject\GroupProject\GroupProject\obj\Debug\GroupProject.pdb

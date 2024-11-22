@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GroupProject\\",
+  "WorkspaceRootPath": "E:\\Documents\\Git Repo\\GroupProject\\GroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2868975B-0333-41F6-9E26-415AD13CEE3A}|GroupProject\\GroupProject.csproj|c:\\users\\user\\source\\repos\\groupproject\\groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2868975B-0333-41F6-9E26-415AD13CEE3A}|GroupProject\\GroupProject.csproj|e:\\documents\\git repo\\groupproject\\groupproject\\groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2868975B-0333-41F6-9E26-415AD13CEE3A}|GroupProject\\GroupProject.csproj|solutionrelative:groupproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GroupProject\\GroupProject\\Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Git Repo\\GroupProject\\GroupProject\\GroupProject\\Program.cs",
               "RelativeDocumentMoniker": "GroupProject\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\GroupProject\\GroupProject\\Program.cs",
-              "RelativeToolTip": "GroupProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
+              "ToolTip": "E:\\Documents\\Git Repo\\GroupProject\\GroupProject\\GroupProject\\Program.cs*",
+              "RelativeToolTip": "GroupProject\\Program.cs*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwJgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:34:18.441Z",
               "EditorCaption": ""
